@@ -1,4 +1,4 @@
-# Digital Thermal Right LCD Controller
+# Thermalright Assassin X 120 R Digital
 
 > **Fork note / Hinweis:** This fork adds support for the **Thermalright Assassin X 120 R Digital
 > (TL-AX120 R Digital)** on Linux. / Dieser Fork ergänzt die Unterstützung für den
@@ -51,7 +51,7 @@ It provides a Python controller to display system metrics (CPU/GPU temp/usage) a
 
 1.  **Clone the repository:**
 ```bash
-    git clone https://github.com/bagueDev/Peerless_assassin_and_CLI_TR-Assassin-X-120R-DigitalUI.git
+    git clone https://github.com/bagueDev/TR-Assassin-X-120R-DigitalUI_CLI.git
     cd Peerless_assassin_and_CLI_TR-Assassin-X-120R-DigitalUI
 ```
 
