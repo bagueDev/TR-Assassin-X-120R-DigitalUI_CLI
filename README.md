@@ -52,7 +52,7 @@ It provides a Python controller to display system metrics (CPU/GPU temp/usage) a
 1.  **Clone the repository:**
 ```bash
     git clone https://github.com/bagueDev/TR-Assassin-X-120R-DigitalUI_CLI.git
-    cd Peerless_assassin_and_CLI_TR-Assassin-X-120R-DigitalUI
+    cd TR-Assassin-X-120R-DigitalUI_CLI
 ```
 
 2.  **Create a virtual environment and install dependencies:**
